@@ -23,8 +23,8 @@
 		 * Disable this if you'd like to use dynamic types.
 		 */
 		"checkJs": true,
-		/* keep aliases in sync with vite.config.js */
 		"baseUrl": ".",
+		/* keep aliases in sync with vite.config.js */
 		"paths": {
 			"$assets/*": ["src/assets/*"],
 			"$css": ["src/css/*"],
